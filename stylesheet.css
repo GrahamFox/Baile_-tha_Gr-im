@@ -1,0 +1,64 @@
+
+/* Home */
+
+.home {
+	background-image: url(images/evening_dublin.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 650px;
+}
+
+.blockquote-reverse, blockquote.pull-right {
+	padding-top: 25%;
+	padding-right: 8%;
+	border-right: 1px;
+}
+
+#main {
+	font-size: 50px;
+}
+
+#main2 {
+	font-size: 25px;
+}
+/* About */
+
+.about {
+	background-color: #363B3F;
+	color: #CECDAA;
+}
+
+.about, h2 {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.team {
+	text-align: center;
+	background-color: #CECDAA;
+	color: #363B3F;
+}
+
+img.img-circle {
+	margin-top: 20px;
+}
+
+/* Footer */
+
+.glyphicon.glyphicon-heart {
+color: #ff0000;
+}
+
+footer {
+	background-color: #363B3F;
+}
+
+.menu {
+	margin-top: 20px;
+}
+
+.menu.ul,li {
+	display: inline;
+	margin-top: 10px;
+}
